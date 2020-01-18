@@ -1,13 +1,13 @@
 # 🧙Witcher
 
-1. **The Last Wish**
-02. **Season of Storms**
-03. **Sword of Destiny**
-04. **Blood of Elves**
-05. **Time of Contempt**
-06. **Baptism of Fire**
-07. **The Tower of Swallows**
-08. **Lady of the Lake**
+1. **The Last Wish** (2007)
+02. **Season of Storms** (2018)
+03. **Sword of Destiny** (2015)
+04. **Blood of Elves** (2008)
+05. **Time of Contempt** (2013)
+06. **Baptism of Fire** (2014)
+07. **The Tower of Swallows** (2016)
+08. **Lady of the Lake** (2017)
 
 
 Website: [the-witcher.ga](http://the-witcher.ga)
